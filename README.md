@@ -18,3 +18,6 @@ uvicorn app.main:app --reload
 ### Frontend
 
 npm run dev
+
+## Disclaimer
+Claude were used for coding and debugging.
